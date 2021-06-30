@@ -1,12 +1,10 @@
-Questions login cards with a modern design using React hooks
+Questions login Cards with a modern design using React hooks 
+
 
 Usage
-
-Install dependencies
+# Install dependencies
 npm install
-
-Run app
+# Run app
 npm start
-
-Build app
+# Build app
 npm run build
